@@ -1,9 +1,11 @@
 .video-item {
-    display: flex !important;
-    align-items: center !important;
-    cursor: pointer;
+   display: flex !important;
+   align-items: center !important;
+   cursor: pointer;
+   color: black;
+   font-weight: bold;
 }
 
 .video-item.item img {
-    width: 180px;
+   width: 180px;
 }
